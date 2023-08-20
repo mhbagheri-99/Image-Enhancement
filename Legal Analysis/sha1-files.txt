@@ -1,0 +1,20 @@
+-	/Legal Analysis /Original_Frames/frame_180.jpg				65a8ff0b89f50ce519b89859cde3ceafb937c9ca
+-	/Legal Analysis /Original_Frames/frame_185.jpg				32716a56e55c19713ab9b9d9e434bfd4b302bbd2
+-	/Legal Analysis /Original_Frames/frame_190.jpg				10ca271a2b957edfff1f6dc2757a255e5a16683b
+
+-	/Legal Analysis /Processed_Frames/frame_180_deblurred.jpg		47749e1b4fbd830b32425ad3bd2c84db555908aa
+-	/Legal Analysis /Processed_Frames/frame_180_denoised.jpg		c7987f336e697589d78d55006a8d8b69683d205a
+-	/Legal Analysis /Processed_Frames/frame_180_gamma_corrected.jpg		ead84dddf0c1e270e3c96c974cae3b3411e1f71c
+-	/Legal Analysis /Processed_Frames/frame_185_deblurred.jpg		3e1bbe228498d0988ab8918ede8ac0950d0cdaa6
+-	/Legal Analysis /Processed_Frames/frame_185_denoised.jpg		e13837a159795dfcffec7b3b7b83fa078f4bd0d3
+-	/Legal Analysis /Processed_Frames/frame_185_gamma_corrected.jpg		bf3e120ff84292164fdc2e0dd1519c304712b2dc
+-	/Legal Analysis /Processed_Frames/frame_190_deblurred.jpg		4c0b5d3886e5d75e30b65a10123bd050597cdf31
+-	/Legal Analysis /Processed_Frames/frame_190_denoised.jpg		a55c0579c47e71d1b247307eb375c2d8c37b6640
+-	/Legal Analysis /Processed_Frames/frame_190_gamma_corrected.jpg		2c84faf8ca939344805bef4f0df9c5bd722d88cb
+
+-	/Legal Analysis/md5-files.txt						0e5c40ee9f2b493b1e86b53c4450cfb139c21a9b	
+-	/Legal Analysis/sha1-files.txt						3a35fcf6ab5aa8d4510c36a5bd849848d4a666e1
+-	/Legal Analysis/relation_copy.txt					7a4c30ada81f8a082712ce6d1ad7591f5598ee2f
+-	/Legal Analysis/video1.mov						e87d43261b1b448a0eb13b908f10e76a8d70039d
+-	/Legal Analysis/Final_Report.pdf					483d9a4fad1a9b5f31b3aed2e173e65cc1f9b4f7
+-	/Legal Analysis/DF_Final.ipynb						22cf10f384dc057e74ba45e8e6b86f466f5685e7

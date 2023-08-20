@@ -1,0 +1,50 @@
+Relation
+
+
+Received material
+	File: video1.mov
+		Format: 	MOV
+		Resolution: 	1024x768
+		Duration: 	00:00:08
+		Frame rate: 	30.00 fps
+		MD5: 		f34f9f86238f7d916bf6d8c95c533aff
+		SHA-1:		e87d43261b1b448a0eb13b908f10e76a8d70039d
+
+Adopted software and hardware
+During the process, we used the sources listed below:
+•	Laptop Lenovo Legion 5i (2021, 15.6”) – Used Google colab service on the device (https://colab.research.google.com/)
+•	“certutil -hashfile Example.txt MD5” and “certutil -hashfile Example.txt SHA1” commands in the terminal to acquire the MD5 and SHA-1 values of our file (Windows 11 Pro, build 22621.1778)
+•	Python version 3.10.12 (https://www.python.org/downloads/release/python-31012/)
+•	Library opencv-python version 4.7.0(https://opencv.org/blog/2022/12/29/opencv-4-7-0/)
+•	Library numpy (https://numpy.org/)
+•	Library matplotlib (https://matplotlib.org/)
+•	Script DF_Final.ipynb, created to analyze the image (in the notebook format to see the output without re-running the code)
+
+Handed-in material
+-	/Legal Analysis:			The folder containing all the materials handed in
+-	/Legal Analysis /Original_Frames:	The folder containing the frames that were used in the process
+-	/Legal Analysis /Original_Frames/frame_180.jpg
+-	/Legal Analysis /Original_Frames/frame_185.jpg
+-	/Legal Analysis /Original_Frames/frame_190.jpg
+-	/Legal Analysis /Processed_Frames:	The folder containing the images that were produced in the process
+-	/Legal Analysis /Processed_Frames/frame_180_deblurred.jpg
+-	/Legal Analysis /Processed_Frames/frame_180_denoised.jpg
+-	/Legal Analysis /Processed_Frames/frame_180_gamma_corrected.jpg
+-	/Legal Analysis /Processed_Frames/frame_185_deblurred.jpg
+-	/Legal Analysis /Processed_Frames/frame_185_denoised.jpg
+-	/Legal Analysis /Processed_Frames/frame_185_gamma_corrected.jpg
+-	/Legal Analysis /Processed_Frames/frame_190_deblurred.jpg
+-	/Legal Analysis /Processed_Frames/frame_190_denoised.jpg
+-	/Legal Analysis /Processed_Frames/frame_190_gamma_corrected.jpg
+-	/Legal Analysis/md5-files.txt		The text file containing the MD5 hash values of all the files in the main folder
+-	/Legal Analysis/sha1-files.txt		The text file containing the SHA-1 hash values of all the files in the main folder
+-	/Legal Analysis/relation_copy.txt	The text file containing a copy of the relations section
+-	/Legal Analysis/video1.mov		The original video given
+-	/Legal Analysis/Final_Report.pdf	The final report file
+- 	/Legal Analysis/DF_Final.ipynb 		The notebook file containing the main script used to edit and enhance the frames, and also the function used to extract the frames of the video file
+
+Appendixes
+The relation is made of 2 pages, it is linked to a digital archive and includes a final appendix.
+
+Reproducibility
+The analysis follows the standard for handling digital evidences ISO/IEC 27037 and all the results can be replicated using the mentioned software.
